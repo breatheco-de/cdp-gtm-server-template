@@ -1,0 +1,7 @@
+homepage: "https://github.com/breatheco-de/cdp-gtm-server-template"
+documentation: "https://github.com/breatheco-de/cdp-gtm-server-template#readme"
+versions:
+  # Newest first. Each sha is the commit that holds that version of template.tpl.
+  - sha: REPLACE_WITH_FIRST_COMMIT_SHA
+    changeNotes: |2
+      Initial release: sends server-side events to the 4Geeks CDP with an ingest-only token.
